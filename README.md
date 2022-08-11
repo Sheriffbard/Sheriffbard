@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sheriffbard
-- 👀 I’m interested in web designs and Web development
-- 🌱 I’m currently learning UI/UX designs
+- 👀 UiUx designer and full stack Software developer
 - 💞️ I’m looking to collaborate on UI/UX projects
 - 📫 How to reach me via email olawuyiola@gmail.com
 
