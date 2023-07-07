@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sheriffbard
+- 👋 Hi, I’m @Adeyemi
 - 👀 UiUx designer and full stack Software developer
 - 💞️ I’m looking to collaborate on UI/UX projects
 - 📫 How to reach me via email olawuyiola@gmail.com
