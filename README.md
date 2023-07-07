@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adeyemi
-- 👀 UiUx designer and full stack Software developer
+- 👀 UiUx designer and aspiring full stack Software developer(you can check my progress)
 - 💞️ I’m looking to collaborate on UI/UX projects
 - 📫 How to reach me via email olawuyiola@gmail.com
 
